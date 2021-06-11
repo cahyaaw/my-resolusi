@@ -3,3 +3,4 @@ my-resolusi
 -saya ingin konsisten belajar 3jam/day
 -belajar html
 -belajar css
+-belajar java script
