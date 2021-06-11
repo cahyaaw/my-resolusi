@@ -1,3 +1,4 @@
 my-resolusi
 -saya ingin belajar FSWD
 -saya ingin konsisten belajar 3jam/day
+-membuat website
